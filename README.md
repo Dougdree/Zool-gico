@@ -1,4 +1,4 @@
-Sistema de Gestión de Zoológico
+**Sistema de Gestión de Zoológico**
 Descripción
 Este proyecto es un sistema de gestión para un zoológico que permite:
 
