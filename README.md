@@ -18,8 +18,7 @@ Este proyecto es un sistema de gestión para un zoológico que permite:
 * Programar horarios de alimentación y limpieza.
 * Mantener un registro histórico de la salud de cada animal.
 * Asignar cuidadores específicos según la especie o requerimientos especiales.
-
-## Dirección
+  
 # Diagrama de Clases:
 [Diagrama](https://github.com/Dougdree/Zool-gico/blob/main/Diagrama%20de%20Clases%20del%20Zoólogico.jpg)
 # Clases Programadas
