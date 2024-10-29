@@ -22,4 +22,28 @@ Este proyecto es un sistema de gestión para un zoológico que permite:
 ## Dirección
 * Main:
 [Main:](https://github.com/Dougdree/Zool-gico/blob/main/Zoologico/Zoologico/Main.java)
+* Persona:
+[Persona](https://github.com/Dougdree/Zool-gico/blob/main/Zoologico/Zoologico/Persona.java)}
+* Alimentación:
+[Alimentación](https://github.com/Dougdree/Zool-gico/blob/main/Zoologico/Zoologico/Alimentacion.java)
+* Animal:
+[Animal](https://github.com/Dougdree/Zool-gico/blob/main/Zoologico/Zoologico/Animal.java)
+* Boleto:
+[Boleto](https://github.com/Dougdree/Zool-gico/blob/main/Zoologico/Zoologico/Boleto.java)
+* Cliente:
+[Cliente](https://github.com/Dougdree/Zool-gico/blob/main/Zoologico/Zoologico/Cliente.java)
+* Cuidador:
+[Cuidador](https://github.com/Dougdree/Zool-gico/blob/main/Zoologico/Zoologico/Cuidador.java)
+* Especie:
+[Especie](https://github.com/Dougdree/Zool-gico/blob/main/Zoologico/Zoologico/Especie.java)
+* Exhibición:
+[Exhibición](https://github.com/Dougdree/Zool-gico/blob/main/Zoologico/Zoologico/Exhibicion.java)
+* Guía:
+[Guía](https://github.com/Dougdree/Zool-gico/blob/main/Zoologico/Zoologico/Guia.java)
+* Habitat:
+[Habitat](https://github.com/Dougdree/Zool-gico/blob/main/Zoologico/Zoologico/Habitat.java)
+* Personal:
+[Personal](https://github.com/Dougdree/Zool-gico/blob/main/Zoologico/Zoologico/Personal.java)
+* Veterinario:
+[Veterinario](https://github.com/Dougdree/Zool-gico/blob/main/Zoologico/Zoologico/Veterinario.java)
 
