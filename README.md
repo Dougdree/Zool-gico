@@ -1,5 +1,12 @@
 # Sistema de Gestión de Zoológico
 
+# Intengrantes del Grupo
+* Arelys Ajila.
+* Douglas Carreño.
+* Viviana Córdova
+* Fabricio Ruiz
+* María Valarezo
+
 ## Descripción
 
 Este proyecto es un sistema de gestión para un zoológico que permite:
