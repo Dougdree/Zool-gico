@@ -4,7 +4,7 @@ Este repositorio contiene el diagrama de clases diseñado para modelar el sistem
 
 ## Propósito del Diagrama
 
-El objetivo de este diagrama es proporcionar una vista general de cómo interactúan las distintas clases en el sistema de gestión del zoológico. Este diseño facilita la organización del personal, la supervisión de la alimentación y cuidado de los animales, la planificación de exhibiciones y la gestión de la experiencia de los visitantes. La estructura modular permite adaptarse a futuras expansiones y cambios en el zoológico.
+El objetivo de este diagrama es proporcionar una vista general de cómo interactúan las distintas clases en el sistema de gestión del zoológico. Este diseño facilita la organización del personal, la supervisión de la alimentación y cuidado de los animales y la planificación de exhibiciones.
 
 ## Estructura y Principales Componentes
 
@@ -30,8 +30,4 @@ Existen asociaciones que representan las interacciones esenciales entre los dife
 
 ## Conclusión
 
-El diagrama de clases representa de manera efectiva los elementos y relaciones esenciales para la gestión de un zoológico, proporcionando una base sólida para el desarrollo del sistema. La estructura permite administrar tanto las tareas internas (cuidado animal, asignación de personal) como la experiencia del visitante, y cuenta con la flexibilidad necesaria para expandirse según las futuras necesidades del zoológico.
-
----
-
-Este modelo es una herramienta fundamental para guiar el desarrollo de un sistema informático robusto y escalable que gestione los procesos del zoológico de manera eficiente y organizada.
+El diagrama de clases representa de una manera más efectiva los elementos y relaciones importantes para la gestión de un zoológico, en la que proporcionan una base para el desarrollo del sistema. La estructura permite administrar tanto las tareas internas (cuidado animal, asignación de personal) como la experiencia del visitante, y cuenta con la flexibilidad necesaria para expandirse según las futuras necesidades del zoológico.
