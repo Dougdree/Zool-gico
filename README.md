@@ -18,3 +18,8 @@ Este proyecto es un sistema de gestión para un zoológico que permite:
 * Programar horarios de alimentación y limpieza.
 * Mantener un registro histórico de la salud de cada animal.
 * Asignar cuidadores específicos según la especie o requerimientos especiales.
+
+## Dirección
+* Main:
+[Main:](https://github.com/Dougdree/Zool-gico/blob/main/Zoologico/Zoologico/Main.java)
+
